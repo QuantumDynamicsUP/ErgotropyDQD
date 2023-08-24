@@ -1,2 +1,4 @@
 # ErgotropyDQD
 Solving the ergotropy of a double quantum dot system coupled in series with two reservoirs. 
+
+We theoretically studied a quantum battery as a non-equilibrium quantum system consisting of two electronic reservoirs at different chemical potentials coupled in series with a double quantum dot, the latter described as a two-energy-level system. The problem has been analyzed in the Coulomb Blockade regime in the high-bias limit, and the dynamics of the time evolution has been solved by means of the Lindblad equation, finding also the stationary states of the system. The study includes the optimization of the ergotropy (battery charge) of the steady states for two cases: 1. when the energy difference between the levels (detuning) is zero and 2. when the detuning is finite. In addition, we extend the model beyond the high-bias limit to analyze the model at finite temperatures in the reservoirs.
